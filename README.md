@@ -8,3 +8,5 @@ Repository about python projects
 6. Append that shortened url to shortening url variable.
 7. Copy url method is also added in order to copy and track the shortened url.
 8. Add labels of our app, textfields for storing url and shortened url and buttons for performing actions such as shortening and displaying url and copying url.
+
+This repo will use url shortener from python GUI library tkinter
